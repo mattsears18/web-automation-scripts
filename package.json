@@ -1,0 +1,11 @@
+{
+  "name": "web-automation-scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mattsears18/web-automation-scripts.git",
+  "author": "Matt Sears <mattsears18@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "robotjs": "^0.5.1"
+  }
+}
